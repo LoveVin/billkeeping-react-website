@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/billkeeping-react-website/static/css/main.1e2dd64e.chunk.css",
+    "main.js": "/billkeeping-react-website/static/js/main.2070d9ba.chunk.js",
+    "main.js.map": "/billkeeping-react-website/static/js/main.2070d9ba.chunk.js.map",
+    "runtime-main.js": "/billkeeping-react-website/static/js/runtime-main.a8c24ee0.js",
+    "runtime-main.js.map": "/billkeeping-react-website/static/js/runtime-main.a8c24ee0.js.map",
+    "static/js/2.cdc46ec6.chunk.js": "/billkeeping-react-website/static/js/2.cdc46ec6.chunk.js",
+    "static/js/2.cdc46ec6.chunk.js.map": "/billkeeping-react-website/static/js/2.cdc46ec6.chunk.js.map",
+    "index.html": "/billkeeping-react-website/index.html",
+    "precache-manifest.46f7051360c29706f42c81ec7fb6b430.js": "/billkeeping-react-website/precache-manifest.46f7051360c29706f42c81ec7fb6b430.js",
+    "service-worker.js": "/billkeeping-react-website/service-worker.js",
+    "static/css/main.1e2dd64e.chunk.css.map": "/billkeeping-react-website/static/css/main.1e2dd64e.chunk.css.map",
+    "static/js/2.cdc46ec6.chunk.js.LICENSE.txt": "/billkeeping-react-website/static/js/2.cdc46ec6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8c24ee0.js",
+    "static/js/2.cdc46ec6.chunk.js",
+    "static/css/main.1e2dd64e.chunk.css",
+    "static/js/main.2070d9ba.chunk.js"
+  ]
+}
